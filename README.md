@@ -1,7 +1,12 @@
 ### Hi there! My name is João 😄
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-almancio&show_icons=true&theme=dracula)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](#)
+
+<a href="https://github.com/joao-almancio">
+  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api?username=joao-almancio&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/joao-almancio">
+  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
+</a>
 
 
 
