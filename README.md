@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/joao-almancio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-almancio&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-almancio&show_icons=true&theme=dracula&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
 </a>
 
