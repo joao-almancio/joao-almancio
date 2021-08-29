@@ -1,4 +1,4 @@
-### Hi there! My name is João or you can call me John 😄
+### Hi there! My name is João 😄
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-almancio&show_icons=true&theme=dracula)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](#)
