@@ -2,10 +2,10 @@
 
 
 <a href="https://github.com/joao-almancio">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api?username=joao-almancio&show_icons=true&theme=dracula" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-almancio&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/joao-almancio">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
 </a>
 
 
